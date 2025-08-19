@@ -1,0 +1,131 @@
+{
+  "pages": {
+    "home": {
+      "title": "BestoolsVerse - Les Meilleurs Outils Web Réunis",
+      "description": "Découvrez 20 outils web innovants pour créer, analyser et transformer vos contenus numériques. QR codes, conversion de fichiers, IA, et plus encore - tout gratuit.",
+      "keywords": "outils web gratuits, générateur qr code, convertisseur fichiers, éditeur image ia, outils en ligne"
+    },
+    "about": {
+      "title": "À propos de BestoolsVerse - Notre mission et notre équipe",
+      "description": "Découvrez l'histoire de BestoolsVerse, notre mission d'offrir les meilleurs outils web innovants, et rencontrez l'équipe qui rend tout cela possible.",
+      "keywords": "à propos bestoolsverse, équipe, mission, histoire, innovation web"
+    },
+    "pricing": {
+      "title": "Tarification BestoolsVerse - Plans et Prix Transparents",
+      "description": "Découvrez nos forfaits pour BestoolsVerse. Commencez gratuitement ou passez à Pro pour accéder à toutes les fonctionnalités avancées et à l'utilisation commerciale.",
+      "keywords": "prix bestoolsverse, tarif, abonnement, forfait gratuit, pro, business, essai gratuit"
+    },
+    "contact": {
+      "title": "Contactez BestoolsVerse - Nous sommes à votre écoute",
+      "description": "Une question, une suggestion ou un partenariat ? Contactez l'équipe de BestoolsVerse - nous sommes impatients de vous aider et d'échanger avec vous.",
+      "keywords": "contact bestoolsverse, support, aide, partenariat, question"
+    },
+    "blog": {
+      "title": "Blog BestoolsVerse - Guides et Actualités Outils Web",
+      "description": "Découvrez nos guides, tutoriels et actualités sur les outils web, l'intelligence artificielle, le design et la productivité numérique.",
+      "keywords": "blog outils web, tutoriels, guides ia, design web, productivité, conseils"
+    }
+  },
+  "tools": {
+    "qr-code-generator": {
+      "title": "Générateur de QR Code Artistique Gratuit | BestoolsVerse",
+      "description": "Créez des QR codes artistiques personnalisés avec logos, couleurs et styles. Générateur gratuit, haute résolution, téléchargement instantané.",
+      "keywords": "générateur qr code gratuit, qr code artistique, qr code avec logo, créer qr code personnalisé"
+    },
+    "file-converter": {
+      "title": "Convertisseur de Fichiers Universel Gratuit | BestoolsVerse",
+      "description": "Convertissez vos fichiers entre tous formats : PDF, Word, Excel, images, audio, vidéo. Conversion rapide, sécurisée et gratuite en ligne.",
+      "keywords": "convertisseur fichiers gratuit, pdf to word, mp4 to mp3, convertir image, conversion en ligne"
+    },
+    "ai-image-editor": {
+      "title": "Éditeur d'Images IA Gratuit - Retouche Photo Intelligente",
+      "description": "Retouchez vos photos avec l'IA : suppression d'arrière-plan, amélioration qualité, effets artistiques. Éditeur d'images intelligent et gratuit.",
+      "keywords": "éditeur image ia gratuit, supprimer arrière plan, améliorer photo, retouche intelligente"
+    },
+    "content-generator": {
+      "title": "Générateur de Contenu IA Gratuit | Textes Marketing",
+      "description": "Créez du contenu marketing, articles de blog, descriptions produits avec l'IA. Générateur de texte intelligent pour tous vos besoins créatifs.",
+      "keywords": "générateur contenu ia, texte marketing ia, rédaction automatique, création contenu"
+    },
+    "carbon-calculator": {
+      "title": "Calculateur d'Empreinte Carbone Numérique Gratuit",
+      "description": "Calculez l'impact environnemental de vos activités numériques. Outil gratuit pour mesurer et réduire votre empreinte carbone digitale.",
+      "keywords": "calculateur empreinte carbone, impact environnemental numérique, bilan carbone digital"
+    },
+    "trend-analyzer": {
+      "title": "Analyseur de Tendances IA - Prédictions et Insights",
+      "description": "Analysez les tendances de marché avec l'IA. Prédictions, insights et analyses de données pour anticiper les évolutions futures.",
+      "keywords": "analyse tendances ia, prédiction marché, insights données, veille concurrentielle"
+    },
+    "ar-studio": {
+      "title": "Studio Réalité Augmentée en Ligne | Créateur AR",
+      "description": "Créez des expériences de réalité augmentée directement dans votre navigateur. Studio AR simple et puissant pour visualiser vos objets 3D.",
+      "keywords": "réalité augmentée en ligne, créateur ar, studio ar web, visualisation 3d"
+    },
+    "file-compressor": {
+      "title": "Compresseur de Fichiers Intelligent | Réduction Taille",
+      "description": "Compressez vos fichiers sans perte de qualité. Réduction de taille intelligente pour images, PDF, vidéos et documents.",
+      "keywords": "compresseur fichiers gratuit, réduire taille pdf, compression image, optimisation fichiers"
+    },
+    "color-palette-creator": {
+      "title": "Générateur de Palettes de Couleurs | Design Harmonieux",
+      "description": "Créez des palettes de couleurs parfaites pour vos designs. Générateur intelligent avec harmonies, contrastes et suggestions IA.",
+      "keywords": "générateur palette couleurs, harmonie couleurs, design colorimétrie, couleurs web"
+    },
+    "meme-generator": {
+      "title": "Créateur de Mèmes et GIFs Viraux | Templates Modernes",
+      "description": "Créez des mèmes et GIFs viraux avec nos templates tendance. Générateur simple, rapide et gratuit pour vos réseaux sociaux.",
+      "keywords": "créateur mème gratuit, générateur gif, memes viraux, templates memes"
+    },
+    "website-speed-tester": {
+      "title": "Test de Vitesse Site Web | Analyseur Performance",
+      "description": "Testez la vitesse de votre site web et obtenez des recommandations d'optimisation. Analyse complète de performance et SEO.",
+      "keywords": "test vitesse site web, analyse performance, optimisation seo, pagespeed insights"
+    },
+    "meal-planner": {
+      "title": "Planificateur de Repas IA | Menus Personnalisés",
+      "description": "Créez vos menus de la semaine avec l'IA. Planificateur de repas personnalisé selon vos goûts, régime et budget.",
+      "keywords": "planificateur repas ia, menu semaine, planning repas personnalisé, nutrition"
+    },
+    "seo-checker": {
+      "title": "Vérificateur SEO Gratuit | Audit Référencement Complet",
+      "description": "Auditez le SEO de votre site web. Analyse complète : mots-clés, méta-tags, performance, et recommandations d'optimisation.",
+      "keywords": "audit seo gratuit, vérificateur référencement, analyse seo, optimisation site web"
+    },
+    "travel-planner": {
+      "title": "Planificateur de Voyages IA | Itinéraires Personnalisés",
+      "description": "Planifiez vos voyages avec l'IA. Itinéraires personnalisés, recommandations, budget et organisation complète de vos vacances.",
+      "keywords": "planificateur voyage ia, itinéraire personnalisé, organisation voyage, guide voyage"
+    },
+    "presentation-creator": {
+      "title": "Créateur de Présentations Interactives | Design Moderne",
+      "description": "Créez des présentations captivantes avec notre éditeur IA. Templates modernes, animations et design professionnel.",
+      "keywords": "créateur présentation, slides modernes, presentation design, templates powerpoint"
+    },
+    "nft-studio": {
+      "title": "Studio NFT et Art Numérique | Créateur Blockchain",
+      "description": "Créez et gérez vos NFTs facilement. Studio complet pour l'art numérique, création, mint et marketplace intégré.",
+      "keywords": "créateur nft, art numérique, studio blockchain, mint nft, marketplace"
+    },
+    "investment-simulator": {
+      "title": "Simulateur d'Investissement | Calcul Rendement Financier",
+      "description": "Simulez vos investissements et calculez les rendements. Outil financier avancé pour optimiser votre portefeuille.",
+      "keywords": "simulateur investissement, calcul rendement, planification financière, portefeuille"
+    },
+    "collaborative-editor": {
+      "title": "Éditeur Collaboratif en Temps Réel | Travail d'Équipe",
+      "description": "Travaillez en équipe sur vos documents en temps réel. Éditeur collaboratif avec synchronisation instantanée et commentaires.",
+      "keywords": "éditeur collaboratif, travail équipe, document partagé, collaboration temps réel"
+    },
+    "sentiment-analyzer": {
+      "title": "Analyseur de Sentiment | Monitoring Réputation en Ligne",
+      "description": "Analysez le sentiment autour de votre marque. Monitoring des réseaux sociaux, analyse d'opinion et réputation en ligne.",
+      "keywords": "analyse sentiment, monitoring réputation, veille marque, opinion mining"
+    },
+    "vr-studio": {
+      "title": "Studio VR Immersif | Création Réalité Virtuelle Web",
+      "description": "Créez des expériences VR immersives dans votre navigateur. Studio de réalité virtuelle simple et accessible à tous.",
+      "keywords": "studio vr web, réalité virtuelle navigateur, création vr, expérience immersive"
+    }
+  }
+}

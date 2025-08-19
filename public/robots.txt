@@ -1,0 +1,18 @@
+# Robots.txt pour BestoolsVerse
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /static/
+
+# Sitemap
+Sitemap: https://bestoolsverse.com/sitemap.xml
+
+# Crawl-delay pour éviter la surcharge
+Crawl-delay: 1
+
+# Googlebot spécifique
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
