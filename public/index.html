@@ -3,48 +3,96 @@
   <head>
     <meta charset="utf-8" />
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#3b82f6" />
-    <meta
-      name="description"
-      content="BestoolsVerse - La plateforme ultime regroupant 20+ outils web innovants pour créer, analyser et transformer vos contenus numériques"
-    />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="BestoolsVerse - Plateforme ultime d'outils web innovants. 20+ outils IA, design, business et AR/VR pour booster votre productivité. Essai gratuit disponible." />
+    <meta name="keywords" content="outils web, IA, intelligence artificielle, design, business, productivité, AR/VR, conversion fichiers, QR code, SEO, analyse sentiment" />
+    <meta name="author" content="BestoolsVerse" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://www.bestoolsverse.com/" />
+    
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="%PUBLIC_URL%/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="%PUBLIC_URL%/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="%PUBLIC_URL%/favicon-16x16.png" />
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://bestoolsverse.com/" />
-    <meta property="og:title" content="BestoolsVerse - Les Meilleurs Outils Web Réunis" />
-    <meta property="og:description" content="Découvrez 20+ outils web innovants pour créer, analyser et transformer vos contenus numériques. QR codes, conversion de fichiers, IA, et plus." />
-    <meta property="og:image" content="https://bestoolsverse.com/og-image.jpg" />
+    <meta property="og:url" content="https://www.bestoolsverse.com/" />
+    <meta property="og:title" content="BestoolsVerse - L'univers des meilleurs outils web" />
+    <meta property="og:description" content="Découvrez 20+ outils web innovants pour créer, analyser et transformer vos contenus. IA, design, business, AR/VR - Tout en un seul endroit." />
+    <meta property="og:image" content="https://www.bestoolsverse.com/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="BestoolsVerse" />
+    <meta property="og:locale" content="fr_FR" />
     
     <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content="https://bestoolsverse.com/" />
-    <meta property="twitter:title" content="BestoolsVerse - Les Meilleurs Outils Web Réunis" />
-    <meta property="twitter:description" content="Découvrez 20+ outils web innovants pour créer, analyser et transformer vos contenus numériques." />
-    <meta property="twitter:image" content="https://bestoolsverse.com/twitter-image.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://www.bestoolsverse.com/" />
+    <meta name="twitter:title" content="BestoolsVerse - L'univers des meilleurs outils web" />
+    <meta name="twitter:description" content="20+ outils web innovants pour booster votre productivité. IA, design, business et plus." />
+    <meta name="twitter:image" content="https://www.bestoolsverse.com/twitter-image.jpg" />
+    <meta name="twitter:creator" content="@bestoolsverse" />
     
-    <title>BestoolsVerse - Les Meilleurs Outils Web Réunis</title>
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "BestoolsVerse",
+      "url": "https://www.bestoolsverse.com",
+      "description": "Plateforme d'outils web innovants pour la productivité",
+      "applicationCategory": "ProductivityApplication",
+      "operatingSystem": "Web",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "EUR",
+        "lowPrice": "0",
+        "highPrice": "49.99"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "127"
+      }
+    }
+    </script>
+    
+    <title>BestoolsVerse - L'univers des meilleurs outils web | IA, Design, Business</title>
+    
+    <!-- Preload critical resources -->
+    <link rel="preload" href="%PUBLIC_URL%/config.js" as="script">
     
     <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=%REACT_APP_GA_TRACKING_ID%"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HYMZBD99RN"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', '%REACT_APP_GA_TRACKING_ID%');
+      gtag('config', 'G-HYMZBD99RN');
     </script>
   </head>
   <body>
-    <noscript>Vous devez activer JavaScript pour utiliser cette application.</noscript>
+    <noscript>
+      <div style="padding: 20px; text-align: center; background: #f3f4f6;">
+        <h1>JavaScript est requis</h1>
+        <p>Veuillez activer JavaScript dans votre navigateur pour utiliser BestoolsVerse.</p>
+      </div>
+    </noscript>
+    
     <div id="root"></div>
+    
+    <!-- Configuration -->
+    <script src="%PUBLIC_URL%/config.js"></script>
     
     <!-- Preloader -->
     <style>
@@ -54,21 +102,34 @@
         left: 0;
         width: 100%;
         height: 100%;
-        background: #000;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         display: flex;
         align-items: center;
         justify-content: center;
         z-index: 9999;
-        transition: opacity 0.5s;
+        transition: opacity 0.5s ease-out;
+      }
+      
+      .loader-container {
+        text-align: center;
       }
       
       .loader {
-        width: 50px;
-        height: 50px;
-        border: 3px solid #f3f3f3;
-        border-top: 3px solid #3b82f6;
+        width: 60px;
+        height: 60px;
+        border: 4px solid rgba(255,255,255,0.3);
+        border-top: 4px solid #ffffff;
         border-radius: 50%;
         animation: spin 1s linear infinite;
+        margin: 0 auto 20px;
+      }
+      
+      .loader-text {
+        color: white;
+        font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+        font-weight: 600;
+        letter-spacing: 1px;
       }
       
       @keyframes spin {
@@ -83,17 +144,35 @@
     </style>
     
     <div id="preloader">
-      <div class="loader"></div>
+      <div class="loader-container">
+        <div class="loader"></div>
+        <div class="loader-text">BestoolsVerse</div>
+      </div>
     </div>
     
     <script>
+      // Preloader
       window.addEventListener('load', function() {
         document.body.classList.add('loaded');
         setTimeout(function() {
           document.getElementById('preloader').style.display = 'none';
         }, 500);
       });
+      
+      // Performance monitoring
+      if ('performance' in window && 'measureUserAgentSpecificMemory' in performance) {
+        // Monitor memory usage
+        if (performance.measureUserAgentSpecificMemory) {
+          setTimeout(async () => {
+            try {
+              const result = await performance.measureUserAgentSpecificMemory();
+              console.log('Memory usage:', result);
+            } catch(e) {
+              console.log('Memory monitoring not available');
+            }
+          }, 3000);
+        }
+      }
     </script>
-    <script src="%PUBLIC_URL%/config.js"></script>
   </body>
 </html>
